@@ -6,3 +6,21 @@
 html, body{
     width: 100%;
 }
+h1{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+}
+.mainele{
+    margin-top: 4rem;
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    align-items: center;
+}
+.imgs {
+    cursor: pointer;
+    width: 10vw;
+    height: 10vw;
+}
