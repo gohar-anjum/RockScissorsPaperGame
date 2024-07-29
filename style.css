@@ -54,4 +54,11 @@ h1{
     margin-top: 4rem;
     padding: .5rem 1rem;
     border: 1px solid black;
+    border-bottom: 3px solid black;
+}
+.gameresult p:hover{
+    border-top: 1px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    box-shadow: 3px 2px 3px rgba(0, 0, 0, 0.705);
 }
