@@ -50,15 +50,9 @@ h1{
 .gameresult p{
     font-size: 1.5rem;
     border-radius: 5px;
-    cursor: pointer;
     margin-top: 4rem;
     padding: .5rem 1rem;
     border: 1px solid black;
-    border-bottom: 3px solid black;
-}
-.gameresult p:hover{
-    border-top: 1px solid black;
-    border-left: 2px solid black;
-    border-right: 2px solid black;
-    box-shadow: 3px 2px 3px rgba(0, 0, 0, 0.705);
+    background-color: black;
+    color: #fff;
 }
